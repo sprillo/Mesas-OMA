@@ -28,17 +28,7 @@ CantidadDeMesasDeLaPrimerColumnaDelSalon_CantidadDeSalones CantidadDeMesasDeLaSe
 252 184 114
 
 
-9
-
-3
-
-10
-
-12
-
-6
-
-5
+9 3 10 12 6 5
 
 
 5 20 20 20 22 21 22 22 21 
